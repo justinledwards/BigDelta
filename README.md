@@ -6,6 +6,15 @@ BOM: https://goo.gl/YLESNC
 
 The Pudding: https://goo.gl/photos/vQzHpMG1wdQYkDLd6  
 
+**Tools required:**
+M5 tap, some oil for tapping.  M5 and M3 allen wrenches.  Wire cutters / strippers. 
+
+**Recent:**
+Added versions for 2040 Verticals and 4040 verticals.  Horizontal extrusion should be at 2040 for either.
+
+**Tips:**
+Instead of buying 1500mm x 2 for the horizontal extrusions you can buy 500mm x 6 to save some cutting.
+
 
 ----------
 
