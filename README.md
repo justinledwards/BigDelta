@@ -15,6 +15,10 @@ Added versions for 2040 Verticals and 4040 verticals.  Horizontal extrusion shou
 **Tips:**
 Instead of buying 1500mm x 2 for the horizontal extrusions you can buy 500mm x 6 to save some cutting.
 
+**Onshape:**
+https://goo.gl/xjHlLQ
+https://goo.gl/zTKVrY
+
 
 ----------
 
