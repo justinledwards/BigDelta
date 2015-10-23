@@ -22,6 +22,7 @@ https://goo.gl/zTKVrY
 **Build Photos:**
 https://goo.gl/NL6L4Y
 https://goo.gl/photos/2pFiowiZTJBhTSM98
+
 ----------
 
 |Frame and Fastners|Quantity|Price Each|Price|Link|Notes|
