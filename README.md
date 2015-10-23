@@ -19,7 +19,9 @@ Instead of buying 1500mm x 2 for the horizontal extrusions you can buy 500mm x 6
 https://goo.gl/xjHlLQ
 https://goo.gl/zTKVrY
 
-
+**Build Photos:**
+https://goo.gl/NL6L4Y
+https://goo.gl/photos/2pFiowiZTJBhTSM98
 ----------
 
 |Frame and Fastners|Quantity|Price Each|Price|Link|Notes|
