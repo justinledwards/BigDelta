@@ -82,7 +82,7 @@ https://goo.gl/photos/2pFiowiZTJBhTSM98
 |Zip ties|0|$0.00|$0.00||amazon by the box|
 |M3 socket cap screws|||$0.00||amazon by the box|
 |M3 nuts and nyloc nuts|||$0.00||amazon by the box|
-|Powersupply 12V|0|$0.00|$0.00|hhttp://amzn.to/1LPI4wd|You can use an ATX PSU that you already have, or get a dedicated 12V 30A PSU|
+|Powersupply 12V|0|$0.00|$0.00|http://amzn.to/1LPI4wd|You can use an ATX PSU that you already have, or get a dedicated 12V 30A PSU|
 |Good filament 1.75mm PLA 1KG rolls|0|$30.00|$0.00|http://atomicfilament.com/|Check on #reprap on freenode for discounts|
 |Glue-All Interior|1|$6.71|$6.71|http://amzn.to/1LPHP46||
 |Printed Parts|1|$0.00|||Nearest & Dearest|
