@@ -36,7 +36,7 @@ https://goo.gl/photos/2pFiowiZTJBhTSM98
 |Endstops|3|$4.50|$13.50|http://openbuildspartstore.com/micro-limit-switch-kit-with-mounting-plate/|reliable and highly repeatable|
 |Long vertex bolts 40mm M5 (25 pack)|1|$4.90|$4.90|http://openbuildspartstore.com/low-profile-screws-m5/|Doesn't hurt to buy an extra pack|
 |Short vertex bolts 10mm M5 (25 pack)|2|$3.15|$6.30|http://openbuildspartstore.com/low-profile-screws-m5/|Again doesn't hurt to buy extra|
-|18" Glass Build Plate|1|$47.99|$47.99|http://www.amazon.com/Round-Thick-Pencil-Tempered-Glass/dp/B00KH5DW4O||
+|18" Glass Build Plate|1|$47.99|$47.99|http://amzn.to/1Q1Ltjk||
 |5 pack of the best steppers|1|$49.99|$49.99|http://www.ebay.com/itm/5pcs-NEMA17-BIPOLAR-STEPPER-MOTOR-76-oz-in-for-3D-Printer-ship-from-chicago-/181582676246?pt=LH_DefaultDomain_0&hash=item2a472bc116|You'll only need 3, but might as well have extra, you'll find a use for them|
 |GT2 belt by the meter|6|$1.80|$10.80|http://www.robotdigg.com/product/10/Open+Ended+6mm+Width+GT2+Belt||
 |Idler Pulley|3|$1.80|$5.40|http://www.robotdigg.com/product/383/6mm+wide+belt+idler+pulley+wheel+5mm+bore||
@@ -63,7 +63,7 @@ https://goo.gl/photos/2pFiowiZTJBhTSM98
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |Nema 11 27:1 geared stepper|1|$31.76|$31.76|http://www.omc-stepperonline.com/gear-ratio-271-planetary-gearbox-dual-shaft-nema-11-stepper-11hs120674dpg27-p-133.html|Might want to order 2 since shipping costs a bit|
 |Tatsu V2 6mm ID Drive gear|1|$25.00|$25.00|http://deezmaker.com/store/#!/Tatsu-v2-Drive-Gear-Hobbed-Filament-Drive-Gear/p/24043350|Price sounds ridiculous, but it's worth it when you see it and use it, same as above|
-|Spearfishing latex tubing|1|$14.23|$14.23|http://www.amazon.com/gp/product/B0084EFKTU?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00||
+|Spearfishing latex tubing|1|$14.23|$14.23|http://amzn.to/1Q1Lwvg||
 |PTFE Tubing 4mm OD|1|$8.33|$8.33|http://www.ebay.com/itm/2-meters-PTFE-Teflon-Tube-For-1-75mm-Filament-for-3D-Printer-RepRap-Rostock-/261689172537||
 
 
@@ -82,11 +82,14 @@ https://goo.gl/photos/2pFiowiZTJBhTSM98
 |Zip ties|0|$0.00|$0.00||amazon by the box|
 |M3 socket cap screws|||$0.00||amazon by the box|
 |M3 nuts and nyloc nuts|||$0.00||amazon by the box|
-|Powersupply 12V|0|$0.00|$0.00|http://www.amazon.com/Universal-Regulated-Switching-Computer-Project/dp/B00D7CWSCG/ref=sr_1_1?ie=UTF8&qid=1440789210&sr=8-1&keywords=12v+30a|You can use an ATX PSU that you already have, or get a dedicated 12V 30A PSU|
+|Powersupply 12V|0|$0.00|$0.00|hhttp://amzn.to/1LPI4wd|You can use an ATX PSU that you already have, or get a dedicated 12V 30A PSU|
 |Good filament 1.75mm PLA 1KG rolls|0|$30.00|$0.00|http://atomicfilament.com/|Check on #reprap on freenode for discounts|
-|Glue-All Interior|1|$6.71|$6.71|http://www.amazon.com/Elmers-E3820-Multi-Purpose-Glue-All-Ounces/dp/B0045PS66Q/ref=sr_1_1?ie=UTF8&qid=1440788213&sr=8-1&keywords=elmers+glue+all+E3820||
+|Glue-All Interior|1|$6.71|$6.71|http://amzn.to/1LPHP46||
 |Printed Parts|1|$0.00|||Nearest & Dearest|
 |Wires|||||Need 4 wires for each stepper, 2 wires for each endstop, 2 thicker wires for hotend, 2 wires for fans|
 |Electronics fan|||||Doesn't hurt to have a fan go over your control board|
 |2 part epoxy|||||for building rods|
 |**Total**|||**$520.79**|||
+
+
+PTCs http://amzn.to/1LPHxub
