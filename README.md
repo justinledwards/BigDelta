@@ -1,7 +1,7 @@
 # BigDelta
 
 A very large Delta 3D printer with very high precision and reliability that makes beautiful and accurate prints.
-Chat at irc://chat.freenode.net/#bigdelta
+Chat at irc://chat.freenode.net/bigdelta
 
 BOM: https://goo.gl/YLESNC
 Mostly EU sourced BOM: https://goo.gl/JueIIJ
