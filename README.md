@@ -1,6 +1,7 @@
 # BigDelta
 
 A very large Delta 3D printer with very high precision and reliability that makes beautiful and accurate prints.
+Chat at irc://chat.freenode.net/#bigdelta
 
 BOM: https://goo.gl/YLESNC
 Mostly EU sourced BOM: https://goo.gl/JueIIJ
@@ -16,7 +17,7 @@ Added versions for 2040 Verticals and 4040 verticals.  Horizontal extrusion shou
 **Tips:**
 Instead of buying 1500mm x 2 for the horizontal extrusions you can buy 500mm x 6 to save some cutting.
 
-**Onshape:**
+**Onshape (CAD Files):**
 https://goo.gl/xjHlLQ
 https://goo.gl/zTKVrY
 
